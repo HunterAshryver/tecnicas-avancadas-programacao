@@ -1,2 +1,2 @@
-# T-cnicas-Avan-adas-de-Programa-o
+Tecnicas avancadas programacao
 Repositorio das Aulas de 2026.
